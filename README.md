@@ -1,2 +1,2 @@
 # PersonalFilesFinder
-Find files that contain Israeli ID number in the file name
+Find files that contain an Israeli ID number in the file name
